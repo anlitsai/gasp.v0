@@ -1,0 +1,4 @@
+GD1.fits
+mean.fits
+mean_ng.fits
+mean_ok.fits

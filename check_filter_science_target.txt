@@ -1,0 +1,24 @@
+# check whcih filter is used for science target
+ 
+find ./ |grep GASP | grep 'fits\|fts' | cut -d / -f6 | sort -t'@' | cut -d . -f1 | rev | cut -d - -f1 | rev | sort | uniq
+
+find ./slt2019???? |grep GASP | grep 'fits\|fts' | cut -d / -f5 | sort -t'@' | cut -d . -f1 | rev | cut -d - -f1 | rev | sort | uniq
+
+# R_Astrodon_2018
+# V_Astrodon_2018
+
+find ./slt2018???? |grep GASP | grep 'fits\|fts' | cut -d / -f5 | sort -t'@' | cut -d . -f1 | rev | cut -d - -f1 | rev | sort | uniq
+
+# R_30508
+# R_Astrodon_2018
+# V_Astrodon_2018
+
+find ./slt2017???? |grep GASP | grep 'fits\|fts' | cut -d / -f5 | sort -t'@' | cut -d . -f1 | rev | cut -d - -f1 | rev | sort | uniq
+
+# R_30508
+
+find ./slt2016???? |grep GASP | grep 'fits\|fts' | cut -d / -f5 | sort -t'@' | cut -d . -f1 | rev | cut -d - -f1 | rev | sort | uniq
+
+# R_30508
+
+

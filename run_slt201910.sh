@@ -1,0 +1,3 @@
+#condaa
+./run_slt_calibration_science_calibration_180S_201910.sh
+./run_Rmag_aperture_annulus_r_file_median_w0_target_v1.sh

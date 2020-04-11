@@ -1,0 +1,7 @@
+1) ./202002/slt20200209/wchen/wchen_03_GASP_01/3C279-20200209@194404-R_Astrodon_2018.fts
+2) ./202002/slt20200209/wchen/wchen_03_GASP_01/3C279-20200209@201309-R_Astrodon_2018.fts
+3) ./202002/slt20200219/wchen/wchen_03_GASP_01/S4_0954+65-20200219@184733-R_Astrodon_2018.fts
+4) ./202002/slt20200221/wchen/wchen_03_GASP_01/4C29-45-20200221@213854-R_Astrodon_2018.fts
+5) ./202002/slt20200223/wchen/wchen_03_GASP_01/OJ287-20200223@181822-R_Astrodon_2018.fts
+... there are 5 files have no wcs coordinate ...
+... write file to search_no_wcs_202002.txt ...

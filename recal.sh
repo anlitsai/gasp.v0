@@ -1,0 +1,6 @@
+python slt_calibration_science_calibration_180S.py slt20190512
+python slt_calibration_science_calibration_180S.py slt20190605
+python slt_calibration_science_calibration_180S.py slt20190621
+python slt_calibration_science_calibration_180S.py slt20190716
+python slt_calibration_science_calibration_180S.py slt20190728
+python slt_calibration_science_calibration_180S.py slt20190827

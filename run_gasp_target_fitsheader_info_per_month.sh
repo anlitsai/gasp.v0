@@ -1,0 +1,6 @@
+#python gasp_target_fitsheader_info_per_month.py 201904
+#python gasp_target_fitsheader_info_per_month.py 201905
+#python gasp_target_fitsheader_info_per_month.py 201906
+python gasp_target_fitsheader_info_per_month.py 201907
+python gasp_target_fitsheader_info_per_month.py 201908
+python gasp_target_fitsheader_info_per_month.py 201909

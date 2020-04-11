@@ -1,0 +1,9 @@
+1) ./201811/slt20181104/wchen/wchen_03_GASP_01/PKS0735+17-20181104@160614-R_Astrodon_2018.fts
+2) ./201811/slt20181104/wchen/wchen_03_GASP_01/S5_0716+71-20181104@155605-R_Astrodon_2018.fts
+3) ./201811/slt20181104/wchen/wchen_03_GASP_01/S5_0716+71-20181104@160025-R_Astrodon_2018.fts
+4) ./201811/slt20181105/wchen/wchen_03_GASP_01/S5_0716+71-20181105@185256-R_Astrodon_2018.fts
+5) ./201811/slt20181109/wchen/wchen_03_GASP_01/AO0235+16-20181109@185127-R_Astrodon_2018.fts
+6) ./201811/slt20181113/wchen/wchen_03_GASP_01/3C66A-20181113@120222-R_Astrodon_2018.fts
+7) ./201811/slt20181121/wchen/wchen_03_GASP_01/3C273-20181121@211052-R_Astrodon_2018.fts
+... there are 7 files have no wcs coordinate ...
+... write file to search_no_wcs_201811.txt ...
