@@ -29,3 +29,5 @@ wcsfixed*/*
 #.gitignore
 error
 *v[2-6].sh
+*pdf
+*ps
