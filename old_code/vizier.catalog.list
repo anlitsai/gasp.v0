@@ -1,0 +1,14 @@
+Vmag + Rmag
+I/297/out	NOMAD Catalog (Zacharias+ 2005)
+'0:I/297/out' with 19 column(s) and 50 row(s) 	NOMAD Catalog (Zacharias+ 2005)		Vmag, Rmag
+'1:I/289/out' with 13 column(s) and 50 row(s) 	UCAC2 Catalogue (Zacharias+ 2004)	xxx
+'2:I/322A/out' with 24 column(s) and 50 row(s) 	UCAC4 Catalogue (Zacharias+, 2012) 	Vmag, rmag
+'3:I/340/ucac5' with 20 column(s) and 50 row(s) UCAC5 Catalogue (Zacharias+ 2017) 	Rmag
+'4:II/294/sdss7' with 19 column(s) and 50 row(s) The SDSS Photometric Catalog, Release 7 (Adelman-McCarthy+, 2009)	rmag
+'5:V/139/sdss9' with 21 column(s) and 50 row(s)	The SDSS Photometric Catalog, Release 9 (Adelman-McCarthy+, 2012)	rmag
+'6:V/147/sdss12' with 23 column(s) and 50 row(s) The SDSS Photometric Catalogue, Release 12 (Alam+, 2015)	xxx
+'7:I/313/lqrf' with 10 column(s) and 8 row(s) 	LQRF: Large Quasar Reference Frame (Andrei+, 2009) 	Rmag
+'8:I/254/out' with 10 column(s) and 48 row(s) 	The HST Guide Star Catalog, Version 1.2 (Lasker+ 1996) 	xxx
+'9:I/255/out' with 9 column(s) and 48 row(s) 	The HST Guide Star Catalog, Version GSC-ACT (Lasker+ 1996-99) 	xxx
+'10:I/271/out' with 11 column(s) and 50 row(s) 		The GSC 2.2 Catalogue (STScI, 2001) 	Vmag, Rmag
+'11:I/305/out' with 11 column(s) and 50 row(s) )	The Guide Star Catalog, Version 2.3.2 (GSC2.3) (STScI, 2006) 	Vmag

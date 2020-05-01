@@ -1,0 +1,16 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(15:12:50.543,-9:05:58.67,10") # color=white text={PKS1510-08}
+annulus(15:12:50.543,-9:05:58.67,15",20") # text={PKS1510-08}
+circle(15:12:53.194,-9:03:41.83,10") # color=red text={2}
+annulus(15:12:53.194,-9:03:41.83,15",20") # text={2}
+circle(15:12:44.299,-9:06:39.89,10") # color=red text={3}
+annulus(15:12:44.299,-9:06:39.89,15",20") # text={3}
+circle(15:12:51.689,-9:05:22.48,8") # color=red text={4}
+annulus(15:12:51.689,-9:05:22.48,13",18") # text={4}
+circle(15:12:52.773,-9:06:59.44,10") # color=red text={6}
+annulus(15:12:52.773,-9:06:59.44,20",25") # text={6}
+circle(15:13:01.440,-9:06:39.39,10") # color=red text={5}
+annulus(15:13:01.440,-9:06:39.39,22",27") # text={5}
+box(15:12:50.618,-9:05:59.42,600",600",0)

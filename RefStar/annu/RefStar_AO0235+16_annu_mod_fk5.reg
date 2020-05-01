@@ -1,0 +1,25 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(8:41:24.300,+70:53:42.00,10") # color=white text={4C71.07}
+circle(8:41:20.060,+70:54:45.49,10") # text={A}
+circle(8:41:00.957,+70:55:00.11,10") # color=red text={B}
+circle(8:41:42.513,+70:51:07.97,15") # color=red text={C}
+box(8:41:32.932,+70:53:16.37,480",480",0)
+circle(2:38:38.900,+16:36:59.00,8") # color=white text={AO0235+16}
+annulus(2:38:38.900,+16:36:59.00,13",18") # text={AO0235+16}
+circle(2:38:36.687,+16:36:26.38,15") # color=red text={1}
+annulus(2:38:36.687,+16:36:26.38,20",25") # text={1}
+circle(2:38:32.204,+16:36:00.83,15") # color=red text={2}
+annulus(2:38:32.204,+16:36:00.83,20",25") # text={2}
+circle(2:38:29.502,+16:36:44.43,15") # color=red text={3}
+annulus(2:38:29.502,+16:36:44.43,20",25") # text={3}
+circle(2:38:39.827,+16:37:19.25,8") # color=red text={8}
+annulus(2:38:39.827,+16:37:19.25,12",16") # text={8}
+circle(2:38:45.924,+16:37:35.97,10") # color=red text={9}
+annulus(2:38:45.924,+16:37:35.97,15",20") # text={9}
+circle(2:38:38.557,+16:38:16.09,8") # color=red text={10}
+annulus(2:38:38.557,+16:38:16.09,12",16") # text={10}
+circle(2:38:45.533,+16:38:43.88,10") # color=red text={11}
+annulus(2:38:45.533,+16:38:43.88,15",20") # text={11}
+box(2:38:38.609,+16:37:05.40,600",600",0)
