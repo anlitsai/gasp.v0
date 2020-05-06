@@ -5,7 +5,8 @@ a=$1
 # mannuly modify $c
 #c=`cat check_science_target_list.txt`
 #c='4C38-41 4C71-07'
-c='4C38-41'
+#c='4C38-41'
+c='DA406'
 
 
 year=`echo $a|cut -c-4`
