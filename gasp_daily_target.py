@@ -28,9 +28,7 @@ list_targetrename=os.popen(cmd_targetrename,"r").read().splitlines()
 #sys.exit(0)
 
 file_fits='gasp_daily.list1'
-#file_datetarget='gasp_daily_target.txt'
-#if os.path.exists(file_datetarget):
-#    os.remove(file_datetarget)
+
 
 cmd_dailyfile="cat "+file_fits
 list_dailylist=os.popen(cmd_dailyfile,"r").read().splitlines()
@@ -93,10 +91,8 @@ with open(file_out1,'w') as f_out1, open(file_out2,'w') as f_out2, open(file_out
         list_out1.append(date_fitsname)
         
         ###### date:targetname ###### 
-        #date_targetname=date+':'+targetname+':'+filtername
         date_targetname=date+':'+filtername+':'+targetname
         #print(date_targetname)
-        #f_out2.write(date_fitsname+'\n')
         f_out2.write(date_targetname+'\n')
         list_out2.append(date_targetname)
 
